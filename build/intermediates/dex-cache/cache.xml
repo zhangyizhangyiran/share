@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24c0501040390bf692ef23b59de74f4c5663b696">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_00907b4b296701d54a7922f9131e80a3688c66cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/lib-zxing/build/intermediates/bundles/default/libs/core_3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6afec4bf592cfc30a0f9615f9739583c6e2bf04e">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/8/core_3.0.1_0a2397b0c4a2d470fdb5fb78d7e9e43133970f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.56.android/4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6/fastjson-1.1.56.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.1.56.android_a50cdd7a0b6bfd7970e3d802f05f146b935f5935/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/lib-zxing/build/intermediates/bundles/default/libs/core_3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6afec4bf592cfc30a0f9615f9739583c6e2bf04e">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/pre-dexed/debug/core_3.0.1_0a2397b0c4a2d470fdb5fb78d7e9e43133970f40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/app/libs/BaiduTraceSDK_v3_0_7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d70f342b295249638d63398fd67cbd09ee325dbe">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduTraceSDK_v3_0_7_d9a1bf29befd57410cea943e8ca3a891b0edc1f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/app/libs/BaiduTraceSDK_v3_0_7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d70f342b295249638d63398fd67cbd09ee325dbe">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/pre-dexed/debug/BaiduTraceSDK_v3_0_7_d9a1bf29befd57410cea943e8ca3a891b0edc1f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.android/build-cache/1902b3968df3b36c545ae1b43d9531fca30d28a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2334c58631ed9e441b4fb69a54b8c5748479c0d4">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_439b651bd558ea2fd9ab1eb6fe3af09c245f52d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24c0501040390bf692ef23b59de74f4c5663b696">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_00907b4b296701d54a7922f9131e80a3688c66cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/lib-zxing/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1883afb34f229e42707c1bac13bcbed0a4720588">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/pre-dexed/debug/classes_8234df263076bd73ff8546b0df89dcd6c6af24dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_bfbecc623b9db66798ad0673ae2a1b15ef328cc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/tabbar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8580a8e8e62ebe3ad9b39213fcd20d2dacca0d07">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/pre-dexed/debug/classes_39848756506c0f57cb2126105cb8864d01cb5ea0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_e86eebf1a463c21a9466b79580341a2c3a9565cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/lib-zxing/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1883afb34f229e42707c1bac13bcbed0a4720588">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_8234df263076bd73ff8546b0df89dcd6c6af24dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.android/build-cache/0305f44b9c6301b1c2302badccaf4a17ad5458b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ddcca66a886acc20e57196192e4e49d8ce4468a">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7669a409dadc1d26d708e79cfd34cb8333b4b059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.android/build-cache/203e4ea583ebf251a48808b1814de69c93f4e967/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33fc0ac682eb92f4471354044e31d64c6e94e890">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3b4f2eac057f595fc3b9395cd382c89106a8639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/Downloads/merchant_sharesoes/tabbar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8580a8e8e62ebe3ad9b39213fcd20d2dacca0d07">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_39848756506c0f57cb2126105cb8864d01cb5ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/administrator/.android/build-cache/efe76922d9889c37f40a7f84becd6430f83359bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98444f0bb32ea047be85a29c9b56a61d42af9c59">
+        <dex dex="/Users/administrator/Downloads/merchant_sharesoes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94bd8deae05646553b9857690c21cf8fc0b7cab4/classes.dex" />
+    </item>
+
+</items>
